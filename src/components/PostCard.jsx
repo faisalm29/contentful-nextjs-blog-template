@@ -12,6 +12,7 @@ const PostCard = ({ post }) => {
           width={1024}
           height={512}
           alt={post.fields.title}
+          className="rounded-lg"
         />
       </div>
       {/* Body section */}

@@ -62,6 +62,7 @@ const PostPage = ({ post, morePosts }) => {
                 width={2024}
                 height={1012}
                 alt={post.fields.title}
+                className="rounded-2xl"
               />
             </div>
 
