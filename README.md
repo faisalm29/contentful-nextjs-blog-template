@@ -1,4 +1,4 @@
-# A Server Side Dendered Blog Template Using Next.js and Contentful
+# A Server Side Rendered Blog Template Using Next.js and Contentful
 
 You can deploy your own by cloning this repository and add your own pages and features.
 
